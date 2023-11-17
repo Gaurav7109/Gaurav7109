@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaurav7109
-- 👀 I’m interested in coding and web development
-- 🌱 I’m currently learning backend development
+- 👀 I’m interested in coding and web development and data analytics
+- 🌱 I’m a full-stack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
